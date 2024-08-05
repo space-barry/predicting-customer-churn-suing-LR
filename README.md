@@ -81,4 +81,4 @@ Contributions to improve the project are welcome. Please follow these steps:
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Medium Blog
-Check out it for more understanding on [Medium]()
+Check out it for more understanding on [Medium](https://medium.com/@khanmuhammadaizazullah/predicting-customer-churn-a-telecom-tale-of-big-data-and-machine-learning-68abfebfb5e9)
